@@ -1,0 +1,5 @@
+MODELO = "gpt-oss:20b"
+MODELO_EMBEDDINGS = "bge-m3"
+PASTA_PDFS = "./pdfs"
+PASTA_VECTORDB= "./vectordb"
+OLLAMA_URL = "http://localhost:11434"
